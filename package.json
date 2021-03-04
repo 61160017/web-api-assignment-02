@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/61160017/web-api-assignment-02/issues"
   },
-  "homepage": "https://github.com/61160017/web-api-assignment-02#readme"
+  "homepage": "https://github.com/61160017/web-api-assignment-02#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
